@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1743350971 source:d:\codeblock\lathinh\main.cpp
+	<iostream>
+	<SDL_image.h>
+	<SDL.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"defs.h"
+	"graphics.h"
+	"logiv.h"
+
+1743350439 source:d:\codeblock\lathinh\graphics.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+
+1743350364 d:\codeblock\lathinh\defs.h
+
+1743351535 d:\codeblock\lathinh\graphics.h
+
+1743349228 d:\codeblock\lathinh\logiv.h
+
+1743355250 source:d:\codeblock\lathinh - copy (2)\main.cpp
+	<iostream>
+	<SDL_image.h>
+	<SDL.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1743436750 source:d:\codeblock\lathinh - copy (2) - copy\main.cpp
+	<iostream>
+	<SDL_image.h>
+	<SDL.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1743439551 source:d:\codeblock\lathinh1.0 - copy\graphics.cpp
+	<iostream>
+	<SDL_image.h>
+	<SDL.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"graphics.h"
+
+1743439442 d:\codeblock\lathinh1.0 - copy\graphics.h
+
+1743437874 d:\codeblock\lathinh1.0 - copy\defs.h
+
+1743439858 source:d:\codeblock\lathinh1.0 - copy\logiv.cpp
+	<iostream>
+	<SDL_image.h>
+	<SDL.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"logiv.h"
+
+1743441085 source:d:\codeblock\lathinh1.0 - copy\main.cpp
+	<iostream>
+	<SDL_image.h>
+	<SDL.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"logiv.h"
+	"defs.h"
+	"graphics.h"
+
+1743439666 d:\codeblock\lathinh1.0 - copy\logiv.h
+
+1743441243 source:d:\codeblock\lathinh1.0beta\graphics.cpp
+	<iostream>
+	<SDL_image.h>
+	<SDL.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"graphics.h"
+
+1743441243 d:\codeblock\lathinh1.0beta\graphics.h
+
+1743439858 source:d:\codeblock\lathinh1.0beta\logiv.cpp
+	<iostream>
+	<SDL_image.h>
+	<SDL.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"logiv.h"
+
+1743439666 d:\codeblock\lathinh1.0beta\logiv.h
+
+1743441243 source:d:\codeblock\lathinh1.0beta\main.cpp
+	<iostream>
+	<SDL_image.h>
+	<SDL.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"logiv.h"
+	"defs.h"
+	"graphics.h"
+
+1743437874 d:\codeblock\lathinh1.0beta\defs.h
+
+1744042722 source:d:\codeblock\lathinh1.0beta - copy\logiv.cpp
+
+1744044864 d:\codeblock\lathinh1.0beta - copy\logiv.h
+	"graphics.h"
+
+1744044788 source:d:\codeblock\lathinh1.0beta - copy\main.cpp
+	<iostream>
+	<SDL_image.h>
+	<SDL.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"logiv.h"
+	"defs.h"
+	"logiv.h"
+
+1743437874 d:\codeblock\lathinh1.0beta - copy\defs.h
+
+1743486276 d:\codeblock\lathinh1.0beta - copy\graphics.h
+
+1744022031 source:d:\codeblock\lathinh1.0beta - copy\graphics.cpp
+	<iostream>
+	<SDL_image.h>
+	<SDL.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"graphics.h"
+
+1744121617 source:d:\codeblock\lh\graphics.cpp
+	<SDL_image.h>
+	<SDL.h>
+	<cstdlib>
+	<ctime>
+	"graphics.h"
+	<SDL_mixer.h>
+
+1744122460 d:\codeblock\lh\graphics.h
+	<SDL.h>
+	<SDL_mixer.h>
+	<cstring>
+
+1744122258 source:d:\codeblock\lh\logiv.cpp
+	<cstdlib>
+	"logiv.h"
+
+1744121263 source:d:\codeblock\lh\main.cpp
+	<SDL_image.h>
+	<SDL.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<SDL_mixer.h>
+	"defs.h"
+	"graphics.h"
+	"logiv.h"
+	"logicgame.h"
+
+1744118005 d:\codeblock\lh\logiv.h
+	"graphics.h"
+
+1744110901 d:\codeblock\lh\defs.h
+	<SDL.h>
+
+1744109895 source:d:\codeblock\lh\logicgame.cpp
+
+1744103150 d:\codeblock\lh\logicgame.h
+
